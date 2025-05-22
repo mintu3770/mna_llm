@@ -8,7 +8,7 @@ import time
 import json
 
 # --- Configuration ---
-GOOGLE_API_KEY = "AIzaSyBRXKa_FljVBqfdtnq2tvvAGCVN5k5Nlo0"  # Replace with your actual API key
+GOOGLE_API_KEY = "AIzaSyBRXKa_FljVBqfdtnq2tvvAGCVN5k5Nlo0" 
 
 # Configure Gemini
 try:
